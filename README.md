@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @thakur343
+- 👋 Hi, I’m Durgesh Kumar
 - 👀 I’m interested in . program ..
 - 🌱 I’m currently learning .python..
 - 💞️ I’m looking to collaborate on .. program.
